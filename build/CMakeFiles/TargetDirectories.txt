@@ -1,0 +1,3 @@
+/Users/kirilldrozhzha/Desktop/irunner/iR_pers_task_01/build/CMakeFiles/MyProject.dir
+/Users/kirilldrozhzha/Desktop/irunner/iR_pers_task_01/build/CMakeFiles/edit_cache.dir
+/Users/kirilldrozhzha/Desktop/irunner/iR_pers_task_01/build/CMakeFiles/rebuild_cache.dir
